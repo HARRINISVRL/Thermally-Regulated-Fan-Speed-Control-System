@@ -1,7 +1,7 @@
 # 🔥 Smart Thermal Environment Regulator using Arduino
 
 A modernized, feature-rich temperature-based fan speed controller that adapts to ambient conditions and ensures system safety with visual and audible feedback.
---
+---
 ## 💡 Features
 
 - 🌀 Adaptive fan speed control based on sensed temperature
@@ -11,6 +11,7 @@ A modernized, feature-rich temperature-based fan speed controller that adapts to
 - 🌡️ Dual temperature sensing (DHT22 or analog)
 - 💤 Sleep mode and low-power friendly design
 
+---
 ## 🔧 Hardware Requirements
 
 - Arduino Uno/Nano
@@ -23,6 +24,7 @@ A modernized, feature-rich temperature-based fan speed controller that adapts to
 - Power Supply (9V-12V)
 - Breadboard & Jumper wires
 
+---
 
 ## 📷 Schematic
 
@@ -33,6 +35,8 @@ Connect:
 - `Button` to Pin 7
 - `OLED SDA/SCL` to A4/A5 (for Uno/Nano)
 
+---
+
 ## 🚀 How it Works
 
 - The Arduino reads temperature via DHT22 or analog input.
@@ -41,12 +45,16 @@ Connect:
 - A button toggles manual override mode (forces fan ON at max).
 - Buzzer alerts if temperature exceeds a critical threshold (50°C).
 
+---
+
 ## 🧪 Applications
 
 - Electronics cooling systems
 - Server room fan automation
 - Greenhouse or environmental control
 - DIY PC case mod projects
+
+---
 
 ## 📝 License
 
