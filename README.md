@@ -1,7 +1,7 @@
 # 🔥 Smart Thermal Environment Regulator using Arduino
 
 A modernized, feature-rich temperature-based fan speed controller that adapts to ambient conditions and ensures system safety with visual and audible feedback.
-
+--
 ## 💡 Features
 
 - 🌀 Adaptive fan speed control based on sensed temperature
@@ -51,3 +51,17 @@ Connect:
 ## 📝 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+--
+---
+
+📫 Contact
+
+For questions, collaboration, or feedback:
+
+Open an issue on GitHub
+
+Or contact the developer via email (rlharrini@gmail.com) or via LinkedIn (www.linkedin.com/in/harrinirl26)
+---
+
+
